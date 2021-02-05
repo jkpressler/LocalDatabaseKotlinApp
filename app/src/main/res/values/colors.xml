@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#B791BD</color>          //searchbar
+<color name="colorPrimaryDark">#DBB6E1</color>      //main background
+<color name="colorAccent">#4e33ff</color>
+<color name="ColorWhite">#ffffff</color>
+<color name="ColorGray">#CACACA</color>
+<color name="ColorLightBlack">#AAABAE</color>
+<color name="ColorText">#000000</color>
+<color name="ColorDarkBlack">#10141C</color>
+<color name="ColorYellow">#ffd633</color>
+<color name="ColorBlue">#4e33ff</color>
+
+<color name="ColorDefaultNote">#E5E6E6</color>
+<color name="ColorBlueNote">#4e33ff</color>
+<color name="ColorYellowNote">#ffd633</color>
+<color name="ColorWhiteNote">#ffffff</color>
+<color name="ColorPurpleNote">#ae3b76</color>
+<color name="ColorGreenNote">#0aebaf</color>
+<color name="ColorOrangeNote">#ff7746</color>
+<color name="ColorBlackNote">#9FA3A3</color>
+</resources>
